@@ -1,0 +1,2 @@
+elaborei o documento pensando em cada etapa e na importância de cada entidade, criei uma entidade chamada recepção que repassaria o veículo para a equipe de inspeção e essa equipe retornará o tipo de serviço a ser 
+realizado, trazendo a mão de obra e as peças para apertura de OS, mão de obra e peça estão em N.M para com ordem de serviço e parte para autorização e execução pela mesma equipe que realizou a inspeção.
